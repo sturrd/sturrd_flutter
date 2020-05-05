@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "135111407154",
+    "firebase_url": "https://sturrd-87146.firebaseio.com",
+    "project_id": "sturrd-87146",
+    "storage_bucket": "sturrd-87146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135111407154:android:847fdf1ee52dd0ac",
+        "android_client_info": {
+          "package_name": "com.sturrd.sturrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135111407154-02hk49r84apelnnh53eddppi90ko6qb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sturrd.sturrd",
+            "certificate_hash": "92619f95eb53561de2e01a1350ff85e4a2b578af"
+          }
+        },
+        {
+          "client_id": "135111407154-bj22c2k62cbtcopkpi2c2m5pl4nf4p8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sturrd.sturrd",
+            "certificate_hash": "a1f7607bd0a17a7d1b7db66017a8efe15a46fab0"
+          }
+        },
+        {
+          "client_id": "135111407154-hdqcg8c15eri3lfa90gdlfslgpuqo9rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sturrd.sturrd",
+            "certificate_hash": "e92719907bee8f87e9e74469fddd6e94a20c5e45"
+          }
+        },
+        {
+          "client_id": "135111407154-n44k1rrec5ohmnh8lhis2c94c0fjg6c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sturrd.sturrd",
+            "certificate_hash": "c4fc181eb3fb6f9b0ea74636591eaa35801c840f"
+          }
+        },
+        {
+          "client_id": "135111407154-d8sor5482l0ss15f40vcmivocp3lcv9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABywdssMrNJ0A80vPH6l_p8sHt98_eSlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135111407154-d8sor5482l0ss15f40vcmivocp3lcv9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135111407154:android:200a60b797ff6587ee6e2b",
+        "android_client_info": {
+          "package_name": "com.sturrd.sturrd_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135111407154-dmq70gnl8j0e8hu0r9mdto6ttvkf99q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sturrd.sturrd_flutter",
+            "certificate_hash": "4995ac816c4d6048f768e76c7726b666ad7f7e5c"
+          }
+        },
+        {
+          "client_id": "135111407154-d8sor5482l0ss15f40vcmivocp3lcv9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABywdssMrNJ0A80vPH6l_p8sHt98_eSlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135111407154-d8sor5482l0ss15f40vcmivocp3lcv9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
